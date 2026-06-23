@@ -1,9 +1,9 @@
 # Privacy Policy — PassGen
 
-**Last updated:** 21 June 2026
+**Last updated:** 23 June 2026
 **App:** PassGen — Secure Password Generator
 **Developer:** GrizPlay (Rohit Singh)
-**Contact:** alwaysrohitsingh@gmail.com
+**Contact:** grizplayapp@gmail.com
 **Package:** com.grizplayapp.passgen
 
 ---
@@ -89,7 +89,7 @@ PassGen is a general-purpose utility intended for users capable of managing thei
 
 PassGen complies with the **Children's Online Privacy Protection Act (COPPA)** and **GDPR** because we collect no personal data from any user.
 
-If you believe we have inadvertently collected information from a child, please contact us at alwaysrohitsingh@gmail.com and we will address it promptly. (Though as noted above, we have no servers and receive no data.)
+If you believe we have inadvertently collected information from a child, please contact us at grizplayapp@gmail.com and we will address it promptly. (Though as noted above, we have no servers and receive no data.)
 
 ---
 
@@ -148,7 +148,7 @@ Continued use of the app after any change constitutes acceptance of the updated 
 
 If you have questions about this privacy policy:
 
-**Email:** alwaysrohitsingh@gmail.com
+**Email:** grizplayapp@gmail.com
 **App:** PassGen — GrizPlay
 **Play Store:** https://play.google.com/store/apps/details?id=com.grizplayapp.passgen
 
