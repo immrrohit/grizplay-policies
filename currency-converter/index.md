@@ -3,7 +3,7 @@
 **Last updated:** 23 June 2026
 **App:** Currency Converter
 **Developer:** GrizPlay (Rohit Singh)
-**Contact:** alwaysrohitsingh@gmail.com
+**Contact:** grizplayapp@gmail.com
 **Package:** com.grizplayapp.currencyconverter
 
 ---
@@ -101,7 +101,7 @@ Currency Converter is a general-purpose utility tool not directed at children. W
 
 Currency Converter complies with the **Children's Online Privacy Protection Act (COPPA)** and **GDPR** because we collect no personal data from any user.
 
-If you believe we have inadvertently collected information from a child, please contact us at alwaysrohitsingh@gmail.com and we will address it promptly.
+If you believe we have inadvertently collected information from a child, please contact us at grizplayapp@gmail.com and we will address it promptly.
 
 ---
 
@@ -160,7 +160,7 @@ Continued use of the app after any change constitutes acceptance of the updated 
 
 If you have questions about this privacy policy:
 
-**Email:** alwaysrohitsingh@gmail.com
+**Email:** grizplayapp@gmail.com
 **App:** Currency Converter — GrizPlay
 **Play Store:** https://play.google.com/store/apps/details?id=com.grizplayapp.currencyconverter
 
